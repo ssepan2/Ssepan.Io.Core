@@ -1,0 +1,13 @@
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\obj\Debug\net5.0-windows\Ssepan.Io.Core.csprojAssemblyReference.cache
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\obj\Debug\net5.0-windows\Ssepan.Io.Core.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\obj\Debug\net5.0-windows\Ssepan.Io.Core.csproj.CoreCompileInputs.cache
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\bin\Debug\net5.0-windows\Ssepan.Io.Core.deps.json
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\bin\Debug\net5.0-windows\Ssepan.Io.Core.dll
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\bin\Debug\net5.0-windows\ref\Ssepan.Io.Core.dll
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\bin\Debug\net5.0-windows\Ssepan.Io.Core.pdb
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\bin\Debug\net5.0-windows\Ssepan.Utility.Core.dll
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\bin\Debug\net5.0-windows\Ssepan.Utility.Core.pdb
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\obj\Debug\net5.0-windows\Ssepan.Io.Core.csproj.CopyComplete
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\obj\Debug\net5.0-windows\Ssepan.Io.Core.dll
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\obj\Debug\net5.0-windows\ref\Ssepan.Io.Core.dll
+F:\Projects\VisualStudio\Ssepan.Io.Core\Ssepan.Io.Core\obj\Debug\net5.0-windows\Ssepan.Io.Core.pdb
